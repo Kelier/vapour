@@ -1,0 +1,33 @@
+{
+  "name": "vapour",
+  "version": "1.0.0",
+  "description": "browser sync",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kelier/vapour.git"
+  },
+  "keywords": [
+    "hot",
+    "module",
+    "replace"
+  ],
+  "author": "john yan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Kelier/vapour/issues"
+  },
+  "homepage": "https://github.com/Kelier/vapour#readme",
+  "devDependencies": {
+    "ajv": "^6.2.0",
+    "ajv-keywords": "^3.1.0",
+    "browser-sync": "^2.23.6",
+    "express": "^4.16.2",
+    "webpack": "^4.0.1",
+    "webpack-dev-middleware": "^3.0.0",
+    "webpack-hot-middleware": "^2.21.1"
+  }
+}
